@@ -1,6 +1,6 @@
 # Dicee
 
-The learning objectives of this project include understanding:
+The learning objectives of this project include:
 * How to use and manipulate XML
 * How to implement randomization
 * How to detect taps on-screen
